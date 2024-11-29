@@ -1,8 +1,10 @@
 # Openstreetmap viewer
 
-This is just some mucking about by me attempting to do something I find useful. The base is (largely) from [here](https://docs.gtk.org/gtk3/getting_started.html) .
+This is just some mucking about by me attempting to do something I find useful. 
 
-So, nothing much.
+So, nothing much :). 
+
+The base is (largely) from [here](https://docs.gtk.org/gtk3/getting_started.html) .
 
 To compile this "project" use the following:
 
