@@ -14,7 +14,7 @@ Possibly followed by:
 
 	strip --strip-all openstreetmapviewer
 
-I have included a icon (It is probably copyrighted by I have no idea where I got it, so [YMMV](https://www.jejik.nl/jargon/html/Y/YMMV.html) .
+I have included a icon (It is probably copyrighted by I have no idea where I got it, so [YMMV](https://www.jejik.nl/jargon/html/Y/YMMV.html) ).
 
 Also included is a .desktop file that I made and has no copyright because it holds no original ideas.
 
