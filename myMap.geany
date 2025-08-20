@@ -28,11 +28,7 @@ long_line_behaviour=2
 long_line_column=72
 
 [files]
-current_page=3
-FILE_NAME_0=449;C;0;EUTF-8;1;1;0;%2Fhome%2Feric%2Fprojecten%2FmyMap%2Fexample-0.c;0;4
-FILE_NAME_1=1139;C;0;EUTF-8;1;1;0;%2Fhome%2Feric%2Fprojecten%2FmyMap%2Fexample-1.c;0;4
-FILE_NAME_2=1979;C;0;EUTF-8;1;1;0;%2Fhome%2Feric%2Fprojecten%2FmyMap%2Fopenstreetmapviewer.c;0;4
-FILE_NAME_3=121;Conf;0;EUTF-8;1;1;0;%2Fhome%2Feric%2Fprojecten%2FmyMap%2Fopenstreetmapviewer.desktop;0;4
+current_page=-1
 
 [VTE]
 last_dir=/home/eric
