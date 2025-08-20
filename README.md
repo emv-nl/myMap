@@ -1,8 +1,10 @@
 # Openstreetmap viewer
 
-This is just some mucking about by me attempting to do something I find useful. The base is (largely) from [here](https://docs.gtk.org/gtk3/getting_started.html) .
+This is just some mucking about by me attempting to do something I find useful. 
 
-So, nothing much.
+So, nothing much :). 
+
+The base is (largely) from [here](https://docs.gtk.org/gtk3/getting_started.html) .
 
 To compile this "project" use the following:
 
@@ -12,7 +14,7 @@ Possibly followed by:
 
 	strip --strip-all openstreetmapviewer
 
-I have included a icon (It is probably copyrighted by I have no idea where I got it, so [YMMV](https://www.jejik.nl/jargon/html/Y/YMMV.html) .
+I have included a icon (It is probably copyrighted by I have no idea where I got it, so [YMMV](https://www.jejik.nl/jargon/html/Y/YMMV.html) ).
 
 Also included is a .desktop file that I made and has no copyright because it holds no original ideas.
 
