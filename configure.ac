@@ -33,7 +33,7 @@ LT_PATH_LD([])
 
 dnl *** Check required libraries
 XDT_CHECK_PACKAGE([GTK3], [gtk+-3.0], [3.24.0])
-XDT_CHECK_PACKAGE([WEBKIT2GTK, [webkit2-gtk-4.0], [2.44.2])
+XDT_CHECK_PACKAGE([WEBKIT2GTK], [webkit2-gtk-4.0], [2.44.2])
 
 dnl *** Platform flags
 AC_MSG_CHECKING([PLATFORM_CPPFLAGS])
@@ -50,4 +50,4 @@ dnl *** Generate output files
 AC_CONFIG_FILES([
 Makefile
 config.h
-
+])
