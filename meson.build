@@ -13,10 +13,9 @@ project(
 server_url_setting = get_option('server_url')
 
 conf_data = configuration_data()
-conf_data.set(
-   'version' : '0.0.2',
-   'server_url' : server_url_setting,
-)
+conf_data.set('version' , '0.0.2')
+conf_data.set('server_url' , server_url_setting)
+
 
 configure_file(
 	input : 'config.h.in',
