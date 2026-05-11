@@ -4,3 +4,4 @@ openstreatmapviewer1
 myMap.geany
 bld/
 build/
+config.h
