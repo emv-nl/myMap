@@ -1,0 +1,2 @@
+#define VERSION_STR "@version@"
+#define SERVER_URL "@server_url@"

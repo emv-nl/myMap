@@ -1,0 +1,5 @@
+option('server_url', type : 'string', value : 'https://öpnvkarte.de/',
+       desctription : 'What is the full URL of the website to use.' +
+                      'At the moment the official site for' +
+                      'openstreetmaps.org is unavailable due to an' +
+                      'invalid centificate accourding to glib.'
